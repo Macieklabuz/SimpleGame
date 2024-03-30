@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\xnarh\OneDrive\Pulpit\projekt jpp\PROJEKT JIPP sam robiony\Project1\Project1\main.cpp(86,43): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\xnarh\OneDrive\Pulpit\projekt jpp\PROJEKT JIPP sam robiony\Project1\Project1\main.cpp(90,34): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\xnarh\OneDrive\Pulpit\projekt jpp\PROJEKT JIPP sam robiony\Project1\Project1\main.cpp(94,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\xnarh\OneDrive\Pulpit\projekt jpp\PROJEKT JIPP sam robiony\Project1\Project1\main.cpp(98,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\xnarh\OneDrive\Pulpit\projekt jpp\PROJEKT JIPP sam robiony\Project1\x64\Debug\Project1.exe
